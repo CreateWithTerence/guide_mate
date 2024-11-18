@@ -1,0 +1,1 @@
+Guide Mate is a mobile application designed to assist users in navigating their environment using advanced technologies such as AI, speech recognition, and text-to-speech. The application integrates with Firebase for authentication and uses the camera for object detection.
